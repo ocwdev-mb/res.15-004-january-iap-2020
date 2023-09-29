@@ -1,0 +1,50 @@
+{
+  "term": "January IAP",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ]
+  ],
+  "legacy_uid": "04c36ae3-e9bd-6374-4baf-1dc5a78d208d",
+  "instructors": {
+    "content": [
+      "48f81f4e-b370-e483-eb2a-feb19a355969"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "053b70bc-b88e-0ffc-32bc-e16edfba06a9",
+    "website": "res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020"
+  },
+  "course_title": "System Dynamics: Systems Thinking and Modeling for a Complex World",
+  "course_description": "This one-day workshop provides a brief overview of system dynamics and a hands-on simulation experience. It also serves as a preview of the more in-depth coverage of the subject available in other courses offered at MIT Sloan.\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.15-004",
+  "course_image_thumbnail": {
+    "content": "811446c0-ce86-ebd1-d483-baa5a5fb3eda",
+    "website": "res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes"
+  ],
+  "site_uid": "c8456bc3-7402-4982-bfb6-eab752566ada",
+  "site_short_id": "res.15-004-january-iap-2020",
+  "title": "Course Metadata"
+}

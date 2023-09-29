@@ -1,0 +1,9 @@
+leftnav:
+- identifier: ecfb2dea-a55f-ca7b-59de-66ac822d44a4
+  name: Session Information and Resources
+  pageRef: /pages/session-info-resources
+  weight: 10
+- identifier: 1d061bac-7bed-789e-f7d7-d37717ea82eb
+  name: Session Video and Slides
+  pageRef: /pages/session-video-and-slides
+  weight: 20
